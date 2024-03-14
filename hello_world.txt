@@ -1,0 +1,2 @@
+Hello, I am learning about using Git through the terminal
+And editing files through VS Code to then stage and push to Git!
